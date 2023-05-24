@@ -1,5 +1,6 @@
 <h2>Project description:</h2>
     This is register/login project using react.js.once you register,your data stored in firebase authentication.you can see your data on the dashboard page.
+    Next time you can login by your registered email and password.
 
 <h2>🛠️Development setup:</h2>
  clone the repository and run the following commands:

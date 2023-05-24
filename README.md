@@ -2,7 +2,7 @@
     This is register/login project using react.js.once you register,your data stored in firebase authentication.you can see your data on the dashboard page.
 
 <h2>🛠️Development setup:</h2>
-
+ clone the repository and run the following commands:
 ```
 git clone https://github.com/Alageshwaran16/React-login
 ```

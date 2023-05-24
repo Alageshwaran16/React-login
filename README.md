@@ -16,7 +16,7 @@ npm install
 ```
 npm start run
 ```
-<h2>screenshot:</h2>
+<h2>Images:</h2>
 
 ![project 1](https://github.com/Alageshwaran16/React-login/assets/133790230/e4b2f910-1212-4445-a134-052a321d24c9)
 

@@ -1,5 +1,5 @@
 <h2>Project description:</h2>
-    This is register/login project using react.js.once you register,your data stored in firebase authentication.you can see your data on the dashboard page
+    This is register/login project using react.js.once you register,your data stored in firebase authentication.you can see your data on the dashboard page.
 
 <h2>🛠️Development setup:</h2>
 
@@ -15,7 +15,8 @@ npm install
 npm start run
 ```
 <h2>screenshot:</h2>
-![project 1](https://github.com/Alageshwaran16/React-login/assets/133790230/60d3941a-fa73-4551-a2fd-980f97bd6e56)
+
+![project 1](https://github.com/Alageshwaran16/React-login/assets/133790230/e4b2f910-1212-4445-a134-052a321d24c9)
 
 
 

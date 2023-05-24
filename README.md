@@ -1,10 +1,25 @@
-# Getting Started with Create React App
+<h2>project description:</h2>
+    This is register/login project using react.js.once you register,your data stored in firebase authentication.you can see your data on the dashboard page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2>🛠️Development setup:</h2>
 
-## Available Scripts
+```
+git clone https://github.com/Alageshwaran16/React-login
+```
 
-In the project directory, you can run:
+```
+npm install
+```
+
+```
+npm start run
+```
+
+
+
+
+
+
 
 ### `npm start`
 
